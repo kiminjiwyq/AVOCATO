@@ -1,0 +1,30 @@
+img{
+    padding-top: 1%;
+}
+
+.nav{
+background-color: #f1f4e0;
+line-height: 50px;
+}
+
+.navt{
+text-decoration: none;
+color: #36481d;
+font-size: 20px;
+margin-left: 110px;
+}
+
+.Avo{
+background-color: #e1ebc6;
+line-height: 50px;
+}
+
+.cata{
+    color: #36481d;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.links{
+    color:#5c6c46 ;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}

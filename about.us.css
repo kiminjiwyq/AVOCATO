@@ -1,0 +1,66 @@
+img {
+    padding-top: 1%;
+}
+
+.nav {
+background-color: #f1f4e0;
+line-height: 50px;
+}
+.navt {
+text-decoration: none;
+color: #36481d;
+font-size: 20px;
+margin-left: 110px;
+}
+
+.Avo {
+background-color: #e1ebc6;
+line-height: 50px;
+}
+
+.about-section {
+    font-size: larger;
+    padding: 30px;
+    text-align: center;
+    color: #36481d;
+    }
+
+div.strow{
+    width: 100%;
+    overflow: auto;
+}
+
+div.strow div{
+    width: 30%;
+    float: left;
+}
+
+div.secrow{
+    width: 100%;
+    overflow: auto;
+}
+
+div.secrow div{
+    width: 33%;
+    float: left;
+}
+
+.name{
+    color: #36481d;
+}
+
+.apg{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50px;
+}
+
+.discrip{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.ot{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #36481d;
+    text-align: center;
+    font-size: 50px;
+}

@@ -1,0 +1,35 @@
+.nav {
+    background-color: #f1f4e0;
+    line-height: 50px;
+}
+.navt {
+    text-decoration: none;
+    color: #36481d;
+    font-size: 20px;
+    margin-left: 110px;
+}
+.Avo {
+    background-color: #e1ebc6;
+    line-height: 50px;
+}
+img {
+        padding-top: 1%;
+}
+
+.intro {
+    color: #36481d;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 500;
+}
+
+.title{
+    color: #36481d;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 600;
+}
+
+
+.links {
+    color: #5c6c46;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
